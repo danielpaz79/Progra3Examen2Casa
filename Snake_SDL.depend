@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1410522994 source:d:\programacion\proyectos\snake_sdl\main.cpp
+	"Game.h"
+
+1410545993 d:\programacion\proyectos\snake_sdl\include\game.h
+	<string>
+	<cstdlib>
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"LTexture.h"
+	"Map.h"
+	"Snake.h"
+	"Food.h"
+
+1410540390 d:\programacion\proyectos\snake_sdl\include\ltexture.h
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	<fstream>
+	<cstdlib>
+
+1410546676 source:d:\programacion\proyectos\snake_sdl\src\game.cpp
+	"Game.h"
+	"Config.h"
+	<fstream>
+	<cstdlib>
+
+1410544757 d:\programacion\proyectos\snake_sdl\include\config.h
+
+1410538457 source:d:\programacion\proyectos\snake_sdl\src\ltexture.cpp
+	"LTexture.h"
+
+1410539068 source:d:\programacion\proyectos\snake_sdl\src\snake.cpp
+	"Snake.h"
+	"Config.h"
+
+1410540390 d:\programacion\proyectos\snake_sdl\include\snake.h
+	"SDL.h"
+	"Object.h"
+	<deque>
+
+1410540390 d:\programacion\proyectos\snake_sdl\include\map.h
+	"Config.h"
+
+1410540390 d:\programacion\proyectos\snake_sdl\include\food.h
+	"Config.h"
+	"Map.h"
+	"Object.h"
+
+1410541887 d:\programacion\proyectos\snake_sdl\include\object.h
+	"SDL.h"
+	"LTexture.h"
+	<fstream>
+	<cstdlib>
+
+1410548219 source:d:\programacion\proyectos\snake_sdl\src\food.cpp
+	"Food.h"
+	<ctime>
+	<cstdlib>
+	<vector>
+
+1410473362 source:d:\programacion\proyectos\snake_sdl\src\map.cpp
+	"Map.h"
+
+1410543388 source:d:\programacion\proyectos\snake_sdl\src\object.cpp
+	"Object.h"
+
+1418222356 source:c:\users\dpaz\documents\codeblocksprojects\snake_sdl\main.cpp
+	"Game.h"
+	<iostream>
+	<fstream>
+
+1418222274 c:\users\dpaz\documents\codeblocksprojects\snake_sdl\include\game.h
+	<string>
+	<cstdlib>
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	"LTexture.h"
+	"Map.h"
+	"Snake.h"
+	"Food.h"
+	<iostream>
+	<fstream>
+
+1418050955 c:\users\dpaz\documents\codeblocksprojects\snake_sdl\include\ltexture.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	"SDL2/SDL_image.h"
+	<fstream>
+	<cstdlib>
+
+1410565590 c:\users\dpaz\documents\codeblocksprojects\snake_sdl\include\map.h
+	"Config.h"
+
+1410569957 c:\users\dpaz\documents\codeblocksprojects\snake_sdl\include\config.h
+
+1418050961 c:\users\dpaz\documents\codeblocksprojects\snake_sdl\include\snake.h
+	"SDL2/SDL.h"
+	"Object.h"
+	<deque>
+
+1418050964 c:\users\dpaz\documents\codeblocksprojects\snake_sdl\include\object.h
+	"SDL2/SDL.h"
+	"LTexture.h"
+	<fstream>
+	<cstdlib>
+
+1410565590 c:\users\dpaz\documents\codeblocksprojects\snake_sdl\include\food.h
+	"Config.h"
+	"Map.h"
+	"Object.h"
+
+1418208407 source:c:\users\dpaz\documents\codeblocksprojects\snake_sdl\src\food.cpp
+	"Food.h"
+	<ctime>
+	<cstdlib>
+	<vector>
+
+1418222773 source:c:\users\dpaz\documents\codeblocksprojects\snake_sdl\src\game.cpp
+	<string>
+	"Game.h"
+	"Config.h"
+	<fstream>
+	<cstdlib>
+	<sstream>
+
+1418208407 source:c:\users\dpaz\documents\codeblocksprojects\snake_sdl\src\ltexture.cpp
+	"LTexture.h"
+
+1418208407 source:c:\users\dpaz\documents\codeblocksprojects\snake_sdl\src\map.cpp
+	"Map.h"
+
+1418208407 source:c:\users\dpaz\documents\codeblocksprojects\snake_sdl\src\object.cpp
+	"Object.h"
+
+1418208407 source:c:\users\dpaz\documents\codeblocksprojects\snake_sdl\src\snake.cpp
+	"Snake.h"
+	"Config.h"
+
